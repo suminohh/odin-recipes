@@ -1,0 +1,29 @@
+h1 {
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
+ul {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 2em;
+}
+
+li {
+    color: white;
+}
+
+a:visited
+ {
+    color: white;
+}
+
+.meat {
+    background-color: brown;
+}
+
+.salad {
+    background-color: green;
+}
+
+.bread {
+    background-color: orange;
+}
